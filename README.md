@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-    <img align="center" width="61%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zi-Tao&theme=github-dark-blue&hide_border=true&stroke=DD272700"/>
+    <img align="center" width="62%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zi-Tao&theme=github-dark-blue&hide_border=true&stroke=DD272700"/>
 </p>
 
 <hr/>
