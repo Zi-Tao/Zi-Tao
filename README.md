@@ -13,10 +13,12 @@
     <img align="center" width="61%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zi-Tao&theme=github-dark-blue&hide_border=true&stroke=DD272700"/>
 </p>
 
+<hr/>
+
 # 3D Contributions Calendar
 
 <p align="center">
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
+    <img align="center" width="99%" src="./profile-3d-contrib/profile-night-rainbow.svg"/>
 </p>
 
 
