@@ -5,12 +5,12 @@
 # GitHub Contributions
 
 <p align="center">
-    <img align="center" width="57%" src="https://github-readme-stats.vercel.app/api?username=Zi-Tao&show_icons=true&theme=github_dark&line_height=29&count_private=true&include_all_commits=true&hide_border=true&custom_title=Zi-Tao's GitHub Statistics"/>
-    <img align="center" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zi-Tao&layout=compact&theme=github_dark&langs_count=10&hide_border=true"/>
+    <img align="center" width="56%" src="https://github-readme-stats.vercel.app/api?username=Zi-Tao&show_icons=true&theme=github_dark&line_height=29&count_private=true&include_all_commits=true&hide_border=true&custom_title=Zi-Tao's GitHub Statistics"/>
+    <img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zi-Tao&layout=compact&theme=github_dark&langs_count=10&hide_border=true"/>
 </p>
 
 <p align="center">
-    <img align="center" width="62%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zi-Tao&theme=github-dark-blue&hide_border=true&stroke=DD272700"/>
+    <img align="center" width="61%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zi-Tao&theme=github-dark-blue&hide_border=true&stroke=DD272700"/>
 </p>
 
 # 3D Contributions Calendar
