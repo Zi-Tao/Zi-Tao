@@ -5,7 +5,7 @@
 # GitHub Contributions
 
 <p align="center">
-    <img align="center" width="56%" src="https://github-readme-stats.vercel.app/api?username=Zi-Tao&show_icons=true&theme=github_dark&line_height=29&count_private=true&include_all_commits=true&hide_border=true&custom_title= Zi-Tao's  GitHub Statistics"/>
+    <img align="center" width="56%" src="https://github-readme-stats.vercel.app/api?username=Zi-Tao&show_icons=true&theme=github_dark&line_height=29&count_private=true&include_all_commits=true&hide_border=true&custom_title= Zi-Tao's GitHub Statistics "/>
     <img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zi-Tao&layout=compact&theme=github_dark&langs_count=10&hide_border=true"/>
 </p>
 
